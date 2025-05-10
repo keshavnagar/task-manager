@@ -1,5 +1,5 @@
-function Login (){
-    return <h1>Hi , I am just learing</h1>
-}  // so above component called is functional components okay i just delete it and leaern arrow funtion components okay 
+const Login =()=> {
+    return <h1>hello i am just learing</h1>
+};
 
 export default Login;
