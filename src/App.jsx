@@ -1,12 +1,9 @@
 import './App.css'
-import './learning-face/Login'
+import Login from './pages/Login'
 function App() {
 
-
-  return (
-    <>
-     <Login></Login>
-    </>
+  return (  
+     <Login/>
   )
 }
 
